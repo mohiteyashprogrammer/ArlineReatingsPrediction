@@ -14,9 +14,7 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.ineuron.app:5000/
 ```
-'''
-'''
-
+## Detail
 '''
 In this project, I leveraged Docker to encapsulate my machine learning model and its dependencies, making it easy to deploy and run in any environment. The system predicts airline ratings based on various factors such as flight duration, departure/arrival time, airline company, seat comfort, and in-flight entertainment.
 
